@@ -1,0 +1,12 @@
+.abc{
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 740px) {
+ .abc{
+       display: flex;
+       flex-direction: column;
+
+      }
+    }

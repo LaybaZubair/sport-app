@@ -1,0 +1,137 @@
+
+@media (min-width: 1024px) {
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    }
+}
+.ABC{
+    row-gap: 0px;
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width: 740px) {
+ .ABC{
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       margin: auto;
+       width: 100%;
+     }
+   }
+.sort{
+    background-color: rgb(239, 238, 238);
+    padding: 2px;
+    width: 90px;
+    height: 40px;
+ margin-left: 420px;
+}
+
+@media (max-width: 740px) {
+    .cardsmain{
+  
+        }
+      }
+.running{
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.results{
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+}
+.ccc{
+    
+}
+.cardssss{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+
+.cardssss{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+
+    
+}
+.cardssss{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+
+
+}
+@media (max-width: 740px) {
+    .LLL{
+         margin-left: 30px;
+         width: 100%;
+        }
+      }
+.crd
+{
+
+    
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    aspect-ratio: 3 / 3;
+    height: 300px;
+    width: 300px;
+}
+.crd
+{
+    background-color: rgb(255, 255, 255);
+    min-height: 470px;
+    width: 300px;
+    box-sizing: border-box;
+    box-shadow: inset;
+    font-size: 10px;
+    padding-top: 0px;
+    margin-right: 00px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 100px;
+}
+.TEXT{
+    font-size: 20PX;
+}
+.TEXT2{
+    font-size: 18px;
+}
+.price{
+    font-size: 26px;
+}
+.button{
+background-color: black;
+color: aliceblue;
+padding: 2px;
+width: 230px;
+margin-right: 20px;
+border-radius: 5px;
+height: 40px;
+
+}
+.button2{
+    background-color: aliceblue;
+    padding: 2px;
+    margin: 5px;
+width: 40px;
+height: 40px;
+border-radius: 5px;
+align-items: right;
+}
